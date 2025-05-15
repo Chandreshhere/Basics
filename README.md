@@ -1,2 +1,1 @@
-# Basics
-HTML CSS and JAVASCRIPT projects!
+A collection of landing pages and UI/UX design prototypes built using HTML, CSS, and JavaScript for the front-end, along with Figma for wireframing and visual design. This repository showcases modern, responsive, and user-friendly layouts created to enhance web user experience and demonstrate front-end development skills.
